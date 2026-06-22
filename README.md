@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Engineering+Lead+%40+Persistent+Systems+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Microservices+%7C+React+%7C+Angular;6%2B+Years+%7C+Wipro+%E2%86%92+Infosys+%E2%86%92+Persistent+Systems;Tech+Writer+%7C+9%2C300%2B+LinkedIn+Followers+%E2%9C%8D%EF%B8%8F;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Engineering+Lead+%40+Persistent+Systems+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Microservices+%7C+React;6%2B+Years+%7C+Wipro+%E2%86%92+Infosys+%E2%86%92+Persistent+Systems;Tech+Writer+%7C+9%2C300%2B+LinkedIn+Followers+%E2%9C%8D%EF%B8%8F;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 <!-- Social badges -->
